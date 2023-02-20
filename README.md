@@ -3,8 +3,8 @@
 Create human-friendly IDs from strings.
 
 ![License](https://img.shields.io/github/license/fmatter/humidifier)
-[![Tests](https://img.shields.io/github/actions/workflow/status/fmatter/humidifier/tests.yml?branch=main)](https://github.com/fmatter/humidifier/actions/workflows/tests.yml)
-[![Linting](https://img.shields.io/github/actions/workflow/status/fmatter/humidifier/lint.yml?branch=main)](https://github.com/fmatter/humidifier/actions/workflows/lint.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/fmatter/humidifier/tests.yml?branch=main?labels=tests)](https://github.com/fmatter/humidifier/actions/workflows/tests.yml)
+[![Linting](https://img.shields.io/github/actions/workflow/status/fmatter/humidifier/lint.yml?branch=main?label=linting)](https://github.com/fmatter/humidifier/actions/workflows/lint.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/fmatter/humidifier)](https://app.codecov.io/gh/fmatter/humidifier/)
 [![PyPI](https://img.shields.io/pypi/v/humidifier.svg)](https://pypi.org/project/humidifier)
 ![Versions](https://img.shields.io/pypi/pyversions/humidifier)

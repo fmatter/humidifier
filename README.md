@@ -3,7 +3,6 @@
 Create human-friendly IDs from strings.
 
 ![License](https://img.shields.io/github/license/fmatter/humidifier)
-[![Documentation Status](https://readthedocs.org/projects/humidifier/badge/?version=latest)](https://humidifier.readthedocs.io/en/latest/?badge=latest)
 [![Tests](https://img.shields.io/github/workflow/status/fmatter/humidifier/tests.yml?branch=main)](https://github.com/fmatter/humidifier/actions/workflows/tests.yml)
 [![Linting](https://img.shields.io/github/workflow/status/fmatter/humidifier/lint.yml?branch=main)](https://github.com/fmatter/humidifier/actions/workflows/lint.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/fmatter/humidifier)](https://app.codecov.io/gh/fmatter/humidifier/)

@@ -51,9 +51,11 @@ hum.humidify("dog", unique=True)  # 'dog-1'
 If you only want to generate a new ID for each distinct string:
 
 ```python
-    humidify("dög") # 'dog'
-    humidify("dög") # 'dog'
-    humidify("dog") # 'dog-1'
+from humidifier import humidify
+
+humidify("dög")  # 'dog'
+humidify("dög")  # 'dog'
+humidify("dog")  # 'dog-1'
 ```
 
 You can also use any of the arguments described for [`python-slugify`](https://github.com/un33k/python-slugify).

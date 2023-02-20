@@ -33,4 +33,4 @@ jobs:
       - name: Check style against standards using prospector
         run: prospector src
       - name: Check import order
-        run: isort --check-only src/humid --diff
+        run: isort --check-only src/humidifier --diff

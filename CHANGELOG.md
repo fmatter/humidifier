@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2023-02-25
+
 ### Fixed
 * returning `None` when key is not found
 
@@ -13,5 +15,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Initial release
 
-[Unreleased]: https://github.com/fmatter/humidifier/compare/v0.0.1...HEAD
+[Unreleased]: https://github.com/fmatter/humidifier/compare/v0.0.2...HEAD
+[0.0.2]: https://github.com/fmatter/humidifier/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/fmatter/humidifier/compare/v0.0.1...v0.0.1

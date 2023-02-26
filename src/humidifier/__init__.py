@@ -48,7 +48,7 @@ class Humidifier:
         return candidate
 
     def get_values(self, key):
-        return self.humdict[key]
+        return self.humdict.get(key, None)
 
 
 og_humidifier = Humidifier()
